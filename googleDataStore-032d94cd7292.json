@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astute-tractor-186710",
+  "private_key_id": "032d94cd729214c009d4051f6ea40b4a401d5f47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDALmkk+2u6kNtM\no0f+XVRzjN5Cr+wULi3Di8tZs/awdao80AJeqSZEfBWfe9bQLRvjwI5THv0XmXC1\nLp2XnmrCzpnJH/13v+SnRbWgjw6439aZMFXuJ8R9f0vrnuNEsL3ief/b1D0BQnEB\nAtTQBXyMgnAqXUw0gb+juGto4qtCimTQ/dAjp4jZmVhj+jj3LZkTD0xqdLtplxMW\nRgJTq2qdKtuGalkQw50Lum/Khw3dJQzWnOvSBWSyoBg++TwAuErD9ctOODzuDzaB\nyms6OCg/LUuehOdb0a5ARtBLDGXBdjWKKiY9llFdztb3hLU91zM06vyw5ggSRuF5\nm4Dt/Dr7AgMBAAECggEABkW9gsp98qHltnOh1uh+6CKR4oVRZDs5nSdD5NKd25aL\njt6PJT3KFPQj1Ie7NCI0xdM0Efxx8EI+znsOA7PU8jTCCjF0GWN2+AqraekhZuFP\nZMKSG2rK2/m6pZ8S9dv65phqxGcB8reTbqAECCIVtZRQSuGuqgwOEC7luo+jXVGO\ni+eRjdei8e0YuS8paCXmaxNfchBsSc3t0FfVpyAsXLx5aLW3B/YcaAYxupLxW2Hq\nfkJPQ/mlGwLv20jP5GeAfYebG3lpAbwNyCVr548eGkCwXS7thjMYkZs5wsVFpJ88\nFRX7QVr9Lw9edu3XIX9i113sJ75MdB0chkjtSLu+qQKBgQDgpz+T56WJ66uqeRvJ\nRE6zRCg8K51sHc+qz7q9wEOXOgaX1vg+MVWXwlLb1wmRg5iqkMlLQEXQsp63Ft2k\nM5Yt+5zjKatmPIH38DIVM1ONa9Hsf1sLt9Jo7UYL/uGY2p6tFurXBLnnC8FZaZgM\nAQD4jXN+XGKpZ+VJ+YNodTZcPwKBgQDa/z4AOXi+86sO8i7pYNoK6Z3gFLqLOsIR\nO+8z8dsFbNsAZudOBAkVqsECkKwM4wfKfrMCy1N+239NBgm9PGPzP8dMEVbN8H9M\nqtLawbbOmohq/E0UWswTF+eW8D9WEfEuK+i9DMnrc54A7f4go9I9MnIqO83ofW7M\n1MZngKsiRQKBgGVvPsayhk0S6wzq5//lZr+Mm7onW0oQ385ZQxEgOaSTn5x5hNbY\nAbSnGjCHFJvuVkVVYH4oxB0qOX2jxmm4nSuf+0OacfiUg36GpqZp6WTmdP+atWpC\nErAryj/qUsRomdK/kUOKr8HBzghoJC3vWhfgDnDUl/uznJTdI1dL7UKTAoGANnwE\nP+gMi21yJIDKfRO0i7x9o89kbdlLiSAhLgpBFIN1pQ71Ayrr27Ek3e+Cbp5ZRN7q\nyIovlsMjU9VpvOP2dgFrIxi5QPlRopBpbzV8tsApqnxk7Oh+F03+N0ZEa7SBDZyt\nBcPVxLd6Gv8bF6HKX6FaV/mTDAGQ/HL/faa8bQUCgYEAih64ZyGmvOZ6R5gJI6t7\nzOUSLJYYtxbNok194mHwjzeACpqy8NyN40ZiG7dB1A4fZEj4qb2+a9313pWOWp0I\nn8wW7VO6nn+3W9VEjjDkcwi2GpeccsYwzKhNYiuSaWNYlTWLq/FROE3f63HcwEwQ\nLehpxtFnEYDtMBKIYxNwl1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery@astute-tractor-186710.iam.gserviceaccount.com",
+  "client_id": "118046521091064899520",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery%40astute-tractor-186710.iam.gserviceaccount.com"
+}

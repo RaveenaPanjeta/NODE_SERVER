@@ -1,0 +1,8 @@
+{
+    "data": {
+        "email": "raveena@dexteroustechnologies.co.in",
+        "password": "raveena!@#",
+        "from" : "<iam@thebest.com>",
+        "subject": "Testing the email"
+    }
+}
